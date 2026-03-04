@@ -22,7 +22,7 @@ const Hero = () => {
               Madhan T
             </h2>
             <span className="bg-gradient-to-r from-purple-500 to-purple-900 bg-clip-text text-3xl tracking-tight text-transparent">
-              Python Full Stack Developer
+              Python FullStack Developer
             </span>
             <p className="my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter">
               Enthusiastic and detail-oriented Python Developer with a strong foundation in object-oriented programming and data structures. Proficient in writing clean, efficient, and maintainable Python code. Hands-on experience with Django through academic and personal projects. Passionate about problem-solving and continuous learning, with a strong desire to contribute to real-world software development challenges in collaborative environments.
