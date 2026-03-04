@@ -30,7 +30,7 @@ const Hero = () => {
 
             <div className="flex gap-6 items-center justify-center">
               <a
-                href="https://drive.google.com/file/d/16VjwZ1An1bqcY1F2cOyPmgiTEzZZ1v1T/view"
+                href="https://drive.google.com/file/d/1E4oHCgvb5_qxABMy95FI4IZ2ae8MjWY7/view?usp=drivesdk"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
